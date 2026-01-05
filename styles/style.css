@@ -1,0 +1,15 @@
+.container{
+
+    background: skyblue;
+    height: 100%;
+    width:100%
+}
+.btn{
+
+    display: flex;
+   justify-content:end;
+}
+h1{
+
+    color: rgb(29, 4, 78);
+}
